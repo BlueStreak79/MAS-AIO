@@ -10620,4 +10620,4 @@ exit /b
 
 @echo off
 
-echo.
+echo \n
